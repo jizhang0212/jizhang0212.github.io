@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![jizhang](/Users/zj/Documents/GitHub/jizhang0212.github.io/jizhang.JPG)
+<img src="https://jizhang0212.github.io/jizhang.JPG" width="50%" class="floatpic">
 
 Hi! I’m **Ji Zhang (张骥)**, and welcome to my corner of the web.
 
