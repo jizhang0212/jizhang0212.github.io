@@ -20,3 +20,4 @@ Outside of academics, I enjoy traveling and exercising. Traveling allows me to e
     <td><img src="https://jizhang0212.github.io/T1.JPG" width="200"></td>
   </tr>
 </table>
+Travel is my greatest joy during breaks and my deepest anticipation after a busy semester. It offers a feast for the eyes and relaxation for both mind and spirit, as well as the gift of wonderful, unexpected encounters. I have journeyed across much of China—from dawn's first light to twilight's embrace, across sun-drenched beaches and mist-shrouded peaks, over sweeping plains to towering summits, through scorching deserts and the biting cold of the mountains. Now, as I plan my next adventure, I am guided by the timeless truth: *"To travel is to live."*
