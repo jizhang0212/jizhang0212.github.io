@@ -14,7 +14,7 @@ url: https://jizhang0212.github.io
 # --------------------------------------------------
 owner:
   name: Ji Zhang
-  avatar: /j1.jpg
+  avatar: j1.jpg        
   bio: Stay hungery, stay foolish.
   email: jizhang0212@gmail.com
   cv: 
@@ -122,3 +122,8 @@ plugins:
   - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
 #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
   # - jekyll-archives      # Year/month archive pages
+
+# --------------------------------------------------
+#  FAVICON
+# --------------------------------------------------
+  favicon: favicon.ico
