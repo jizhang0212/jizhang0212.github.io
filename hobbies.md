@@ -4,10 +4,20 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
+Outside of academics, I enjoy traveling and exercising. Traveling allows me to explore new cultures, experience local customs and traditions, gain fresh perspectives, and broaden my understanding of the world. Regular exercise helps me stay physically healthy, relieve stress, and maintain focus for my studies and research. Together, these activities keep me balanced, energized, and inspired in both my personal and academic life.
 
 # Hobbies
 
-## Traveling<div class="third">
+## Traveling
 
-<br>
+<table>
+  <tr>
+    <td><img src="https://jizhang0212.github.io/T3.JPG"></td>
+    <td><img src="https://jizhang0212.github.io/T2.JPG"></td>
+  </tr>
+  <tr>
+    <td><img src="https://jizhang0212.github.io/T4.JPG"></td>
+    <td><img src="https://jizhang0212.github.io/T1.JPG"></td>
+  </tr>
+</table>
+
