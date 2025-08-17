@@ -12,12 +12,12 @@ Outside of academics, I enjoy traveling and exercising. Traveling allows me to e
 
 <table>
   <tr>
-    <td><img src="https://jizhang0212.github.io/T3.JPG" width="210"></td>
-    <td><img src="https://jizhang0212.github.io/T2.JPG" width="210"></td>
+    <td><img src="https://jizhang0212.github.io/travel3.png" width="210"></td>
+    <td><img src="https://jizhang0212.github.io/travel2.png" width="210"></td>
   </tr>
   <tr>
-    <td><img src="https://jizhang0212.github.io/T4.JPG" width="210"></td>
-    <td><img src="https://jizhang0212.github.io/T1.JPG" width="210"></td>
+    <td><img src="https://jizhang0212.github.io/travel4.png" width="210"></td>
+    <td><img src="https://jizhang0212.github.io/travel1.png" width="210"></td>
   </tr>
 </table>
 
