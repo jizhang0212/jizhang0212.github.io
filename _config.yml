@@ -15,19 +15,16 @@ url: https://jizhang0212.github.io
 owner:
   name: Ji Zhang
   avatar: jizhang.JPG
-  bio: Stay hungery, stay foolish.
+#  bio: 
   email: jizhang0212@gmail.com
   cv: 
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
   github: jizhang0212
-  # linkedin: hanlincai
+  # linkedin: 
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
   # lastfm:
   # tumblr:
 
@@ -89,7 +86,7 @@ kramdown:
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
 disqus:
-  shortname: lancecai
+  shortname:
 
 
 # include: [".htaccess"]
