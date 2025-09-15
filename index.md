@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://jizhang0212.github.io/jizhang.JPG" width="63%" class="floatpic">
-
 <p style="text-align: justify;">
 Hi! I’m <strong>Ji Zhang (张骥)</strong>, and welcome to my corner of the web.
 </p>
